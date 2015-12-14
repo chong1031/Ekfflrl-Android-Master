@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Super Chaves World</string>
+    
+    <string name="app_id">377456692674</string>
+    
+    <string name="coin100">CgkIwpuwkf4KEAIQAg</string>
+    <string name="coin250">CgkIwpuwkf4KEAIQAw</string>
+    <string name="coin500">CgkIwpuwkf4KEAIQBA</string>
+    <string name="coin1000">CgkIwpuwkf4KEAIQBQ</string>
+    <string name="coin2500">CgkIwpuwkf4KEAIQBg</string>
+    <string name="coin5000">CgkIwpuwkf4KEAIQBw</string>
+    <string name="coin10000">CgkIwpuwkf4KEAIQCA</string>
+    <string name="coin25000">CgkIwpuwkf4KEAIQCQ</string>
+    <string name="coin50000">CgkIwpuwkf4KEAIQCg</string>
+    <string name="coin100000">CgkIwpuwkf4KEAIQCw</string>
+    <string name="world_2">CgkIwpuwkf4KEAIQDA</string>
+    <string name="world_3">CgkIwpuwkf4KEAIQDQ</string>
+    <string name="world_4">CgkIwpuwkf4KEAIQDg</string>
+    <string name="world_5">CgkIwpuwkf4KEAIQDw</string>
+    
+    <string name="leaderboard_id">CgkIwpuwkf4KEAIQAQ</string>
+    
+    <string name="title_activity_leader_board">LeaderBoardActivity</string>
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
